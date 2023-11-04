@@ -16,6 +16,7 @@
     height: 515px;
     margin: 100px auto 0;
     /* background: #fff; */
+    perspective: 1000px;
 }
 
 .card-inner{
