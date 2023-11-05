@@ -19,7 +19,7 @@ You can see a demo of the Contact Us form here: <img src="Contact us form.png" a
 ## Features
 
 - A simple and user-friendly contact form.
-- Fields for name, email, subject, and message.
+- Fields for name, email, phone, and message.
 - Stylish CSS to make the form visually appealing.
 - Validation for email input.
 - A submit button to send the form data (backend processing not included in this project).
