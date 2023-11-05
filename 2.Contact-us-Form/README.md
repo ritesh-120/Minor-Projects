@@ -1,6 +1,6 @@
 # Contact Us Form Project
 
-This is a simple project for creating a "Contact Us" form using HTML and CSS. It allows users to send inquiries or messages to the website's administrators. The form includes fields for name, email, subject, and a message, and it is styled with CSS to make it visually appealing.
+This is a simple project for creating a "Contact Us" form using HTML and CSS. It allows users to send inquiries or messages to the website's administrators. The form includes fields for name, email, phone, and a message, and it is styled with CSS to make it visually appealing.
 
 ## Table of Contents
 
@@ -28,11 +28,11 @@ You can see a demo of the Contact Us form here: <img src="Contact us form.png" a
 
 1. Clone the repository to your local machine:
 
-git clone "https://github.com/yourusername/contact-us-form.git"
+   git clone "https://github.com/yourusername/contact-us-form.git"
 
 2. Navigate to the project directory:
 
-cd contact-us-form
+   cd contact-us-form
 
 ## usage
 
@@ -51,15 +51,15 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 2. Create a new branch for your feature or bug fix:
 
-git checkout -b feature/your-feature
+   git checkout -b feature/your-feature
 
 3. Make your changes and commit them:
 
-git commit -m "Add your feature"
+   git commit -m "Add your feature"
 
 4. Push your changes to your fork:
 
-git push origin feature/your-feature
+   git push origin feature/your-feature
 
 5. Create a pull request from your fork to the main repository.
 
