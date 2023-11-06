@@ -9,6 +9,7 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #e3dbf6, #dfb6b2);
     padding: 10px;
+    /* padding: 10px; */
 }
 
 .card{
