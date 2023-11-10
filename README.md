@@ -6,7 +6,7 @@ Welcome to the Project Repository! This repository contains a variety of project
 
 | Project Name        | Description                                     | Live Demo                                  |
 |---------------------|-------------------------------------------------|--------------------------------------------|
-| Sign Up Page        | User-friendly sign-up form with basic fields.   | [Demo](http://127.0.0.1:5500/Minor-Projects/1.Profile-Card/Index.html)                                  |
+| Sign Up Page        | User-friendly sign-up form with basic fields.   | [Demo](https://drive.google.com/drive/folders/1qcWK5huDtxifJi0AfVpNF7YuUjIGo3Xr)                                  |
 | Profile Card        | Simple profile card with name, title, and desc. | [Demo](#)                                  |
 | Contact Us Form     | Contact form with fields for name, email, etc.  | [Demo](#)                                  |
 | Minor Project 1     | Brief description of the first minor project.   | [Demo](#)                                  |
