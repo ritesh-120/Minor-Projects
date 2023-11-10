@@ -1,43 +1,23 @@
-# Minor Project Repository
+# Project Repository
 
-Welcome to the Minor Project Repository! This repository contains a collection of minor projects created using HTML and CSS. These projects are designed to help you learn and practice web development skills while creating visually appealing web pages.
-
-## Table of Contents
-
-- [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to the Project Repository! This repository contains a variety of projects created using HTML and CSS.
 
 ## Projects
 
-### 1. Profile Card
-
-Description: This is a simple project for creating a "Profile Card" using HTML and CSS. The profile card displays basic information about a person, such as their name, job title, and a brief description, and it is styled with CSS to create an attractive and visually appealing card.
-
-
-<img src="images/Profile-Card-Front.png" alt="Profile-Card-Front"></a>
-<img src="images/Profile-Card-Back.png" alt="Profile-Card-Back"></a>
-
-
-### 2. Contact Us Form
-
-Description: This is a simple project for creating a "Contact Us" form using HTML and CSS. It allows users to send inquiries or messages to the website's administrators. The form includes fields for name, email, phone, and a message, and it is styled with CSS to make it visually appealing.
-
-<img src="images/Contact us form.png" alt="logo"></a>
-
-### 3. Sign Up Page
-
-Description: This project provides a simple and stylish sign-up page created using HTML and CSS. It allows users to register for an account with basic information.
-
-<img src="images/Sign-Up-Page.png" alt="logo"></a>
+| Project Name        | Description                                     | Live Demo                                  |
+|---------------------|-------------------------------------------------|--------------------------------------------|
+| Sign Up Page        | User-friendly sign-up form with basic fields.   | [Demo](http://127.0.0.1:5500/Minor-Projects/1.Profile-Card/Index.html)                                  |
+| Profile Card        | Simple profile card with name, title, and desc. | [Demo](#)                                  |
+| Contact Us Form     | Contact form with fields for name, email, etc.  | [Demo](#)                                  |
+| Minor Project 1     | Brief description of the first minor project.   | [Demo](#)                                  |
+| Minor Project 2     | Brief description of the second minor project.  | [Demo](#)                                  |
 
 ## Installation
 
-1. Clone this repository to your local machine:
+1. Clone the repository to your local machine:
 
-   git clone https://github.com/yourusername/Minor-Project.git
+   git clone https://github.com/yourusername/project-repo.git
+
 
 2. Navigate to the project directory:
 
