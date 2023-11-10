@@ -17,21 +17,21 @@ Welcome to the Minor Project Repository! This repository contains a collection o
 Description: This is a simple project for creating a "Profile Card" using HTML and CSS. The profile card displays basic information about a person, such as their name, job title, and a brief description, and it is styled with CSS to create an attractive and visually appealing card.
 
 
-<img src="1.Profile_Card/Profile-Card-Front.png" alt="Profile-Card-Front"></a>
-<img src="1.Profile-Card/Profile_Card/Profile-Card-Back.png" alt="Profile-Card-Back"></a>
+<img src="images/Profile-Card-Front.png" alt="Profile-Card-Front"></a>
+<img src="images/Profile-Card-Back.png" alt="Profile-Card-Back"></a>
 
 
 ### 2. Contact Us Form
 
 Description: This is a simple project for creating a "Contact Us" form using HTML and CSS. It allows users to send inquiries or messages to the website's administrators. The form includes fields for name, email, phone, and a message, and it is styled with CSS to make it visually appealing.
 
-<img src="2.Contact-Us-Form/Contact-Us-F0rm/Contact us form.png" alt="logo"></a>
+<img src="images/Contact us form.png" alt="logo"></a>
 
 ### 3. Sign Up Page
 
 Description: This project provides a simple and stylish sign-up page created using HTML and CSS. It allows users to register for an account with basic information.
 
-<img src="3.Sign-Up-Page/Sign-Up-Page/Sign-UP-Page.png" alt="logo"></a>
+<img src="images/Sign-Up-Page.png" alt="logo"></a>
 
 ## Installation
 
