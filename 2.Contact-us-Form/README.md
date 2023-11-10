@@ -14,7 +14,7 @@ This is a simple project for creating a "Contact Us" form using HTML and CSS. It
 ## Demo
 ##
 
-You can see a demo of the Contact Us form here: <img src="Contact us form.png" alt="logo"></a>(#)
+You can see a demo of the Contact Us form here: <img src="Contact us form.png" alt="logo"></a>
 
 ## Features
 
