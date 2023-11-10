@@ -6,11 +6,10 @@ Welcome to the Project Repository! This repository contains a variety of project
 
 | Project Name        | Description                                     | Live Demo                                  |
 |---------------------|-------------------------------------------------|--------------------------------------------|
-| Sign Up Page        | User-friendly sign-up form with basic fields.   | [Demo](https://drive.google.com/drive/folders/1qcWK5huDtxifJi0AfVpNF7YuUjIGo3Xr)                                  |
-| Profile Card        | Simple profile card with name, title, and desc. | [Demo](#)                                  |
-| Contact Us Form     | Contact form with fields for name, email, etc.  | [Demo](#)                                  |
-| Minor Project 1     | Brief description of the first minor project.   | [Demo](#)                                  |
-| Minor Project 2     | Brief description of the second minor project.  | [Demo](#)                                  |
+| Profile Card         | Simple profile card with name, title, and desc.   | [Demo](https://drive.google.com/file/d/1qg7BQczoRbA34VScWkOCm2oygZeYJO-3/view?usp=drive_link)                                  |
+| Sign Up Page        | User-friendly sign-up form with basic fields. | [Demo](https://drive.google.com/file/d/1qg3JwqRDuHTyF61UI2psCxWJ18GTMBoH/view?usp=drive_link)                                  |
+| Contact Us Form     | Contact form with fields for name, email, etc.  | [Demo](https://drive.google.com/file/d/1qi8pSFbUMk73Fw_8f_S3aZVvjKtEQsMr/view?usp=drive_link)                                  |
+
 
 ## Installation
 
@@ -29,7 +28,7 @@ Welcome to the Project Repository! This repository contains a variety of project
 
 2. Open the index.html files in your preferred web browser to view the projects locally.
 
-3. ou can customize and modify these projects as you see fit, or use them as a learning resource to improve your HTML and CSS skills.
+3. You can customize and modify these projects as you see fit, or use them as a learning resource to improve your HTML and CSS skills.
 
 ## Contributing
 
